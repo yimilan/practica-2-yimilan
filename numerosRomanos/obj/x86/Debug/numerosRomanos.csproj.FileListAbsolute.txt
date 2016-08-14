@@ -1,0 +1,4 @@
+c:\users\anyel\documents\visual studio 2010\Projects\numerosRomanos\numerosRomanos\bin\Debug\numerosRomanos.exe
+c:\users\anyel\documents\visual studio 2010\Projects\numerosRomanos\numerosRomanos\bin\Debug\numerosRomanos.pdb
+c:\users\anyel\documents\visual studio 2010\Projects\numerosRomanos\numerosRomanos\obj\x86\Debug\numerosRomanos.exe
+c:\users\anyel\documents\visual studio 2010\Projects\numerosRomanos\numerosRomanos\obj\x86\Debug\numerosRomanos.pdb
